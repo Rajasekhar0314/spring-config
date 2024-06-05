@@ -5,8 +5,7 @@ accounts:
   message: "Welcome to smooth banking account related to production"
   contactDetails:
     name: "smoothbankingprod"
-    email: "{cipher}f5fe0f892d2692fc04caba080c409562324f959cd9d6ae8a60740310cd20c775caefcfd26806f29ffc1e6780925a44c4
-"
+    email: "{cipher}5667bcca2712ff77ddd01a394cdfc23b2a909ec0a837f7e8ac979197cfa2368eb8854eeeb20f4c180828d618dac1696b"
   onCallSupport:
     - 7394572489
     - 7245592944
