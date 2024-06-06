@@ -2,7 +2,7 @@ build:
   version: v2
 
 accounts:
-  message: "Welcome to smooth banking account related to production"
+  message: "Welcome to smooth banking account related to productionssssssssss"
   contactDetails:
     name: "smoothbankingprod"
     email: "{cipher}5667bcca2712ff77ddd01a394cdfc23b2a909ec0a837f7e8ac979197cfa2368eb8854eeeb20f4c180828d618dac1696b"
