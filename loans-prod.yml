@@ -2,7 +2,7 @@ build:
   version: vL.2
 
 loans:
-  message: "Welcome to smooth banking loans related to productionssssssssssss"
+  message: "Welcome to smooth banking loans related to prod"
   contactDetails:
     name: "smoothbankingprod loans"
     email: "smoothbankprodloan@sbank.co"
