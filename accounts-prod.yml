@@ -5,7 +5,7 @@ accounts:
   message: "happy"
   contactDetails:
     name: "smoothbankingprod"
-    email: "(cipher)0de3beb5ac105158f53b03049774bc768612da99f5232bd2dda59f2802317dd4"
+    email: "{cipher}0de3beb5ac105158f53b03049774bc768612da99f5232bd2dda59f2802317dd4"
   onCallSupport:
     - 7394572489
     - 7245592944
