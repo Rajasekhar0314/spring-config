@@ -2,7 +2,7 @@ build:
   version: v1
 
 accounts:
-  message: "Welcome to smooth banking account related to administration"
+  message: "dabba fellow"
   contactDetails:
     name: "smoothbanking"
     email: "{cipher}fc8d4646fb686feb274c05e748c6eaf4ee34f288121fca245cdc41b36d0b80bd13e537c7e5b266ffd34741d95c689e68"
